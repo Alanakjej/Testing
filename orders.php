@@ -198,7 +198,7 @@ if ($result && mysqli_num_rows($result) > 0) {
                     <select class="form-control" id="layanan" name="layanan" required>
                         <option value="normal">Normal</option>
                         <option value="hemat">Hemat (Pengiriman lebih lambat)</option>
-                        <option value="express">Express (Pengiriman lebih cepat)</option>
+                        <option value="express">Expresss (Pengiriman lebih cepat)</option>
                     </select>
                 </div>
                 <div class="col-md-6">
